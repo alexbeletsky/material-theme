@@ -187,7 +187,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#c792eaff</string>
+				<string>#FF5370</string>
 			</dict>
 		</dict>
 		<dict>
@@ -276,7 +276,7 @@ keyword.operator, constant.other.color, meta.tag, punctuation.definition.tag, pu
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ff5370ff</string>
+				<string>#FF5370</string>
 			</dict>
 		</dict>
 		<dict>
