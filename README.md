@@ -1,4 +1,8 @@
 # Material Theme for Sublime Text 3
+
+This is the fork of original [/equinusocio/material-theme](https://github.com/equinusocio/material-theme), with colors corrections that fits my taste a bit better.
+
+
 This theme brings the [Material Design](http://www.google.com/design/) visual language to your Sublime Text 3. If you have problems first search for a similiar issue and then report with [new one](https://github.com/equinusocio/material-theme/issues).
 
 Please read the [Known Issues](https://github.com/equinusocio/material-theme#known-issues) section before send a new one.
