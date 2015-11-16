@@ -2,6 +2,7 @@
 
 This is the fork of original [/equinusocio/material-theme](https://github.com/equinusocio/material-theme), with colors corrections that fits my taste a bit better.
 
+<img width="869" alt="screenshot 2015-11-16 14 47 52" src="https://cloud.githubusercontent.com/assets/304929/11183908/bec7b1b2-8c74-11e5-850c-1f541cad5798.png">
 
 This theme brings the [Material Design](http://www.google.com/design/) visual language to your Sublime Text 3. If you have problems first search for a similiar issue and then report with [new one](https://github.com/equinusocio/material-theme/issues).
 
